@@ -75,7 +75,7 @@ const AudioListPage = () => {
                 {
                     unique.map((el, index) => (
                         <div key={index} className="link__container">
-                            <Link to={`/audios/${bookId}/${GET_UNIT_LINK[el]}`}>
+                            <Link to={`/audios/${bookId}/${GET_UNIT_LINK[el]}`} onClick={() => setResponsiveMenuIsOpen(!responsiveMenuIsOpen)}>
                                 {GET_UNIT_NAME[el]}
                             </Link>
                         </div>
