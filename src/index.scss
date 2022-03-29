@@ -20,6 +20,21 @@ code {
 }
 
 .audioPage {
+  background-color: #ffffff;
+  background: repeating-linear-gradient(
+    45deg,
+    #00000013,
+    #00000015 2.5px,
+    #ffffff 2.5px,
+    #ffffff 12.5px
+  );
+  .main__title {
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: #332f2f;
+    text-align: center;
+  }
   .header {
     background-repeat: repeat;
     background-size: cover;
@@ -35,7 +50,7 @@ code {
       align-items: center;
       justify-content: space-between;
       max-width: 1200px;
-      width: 95%;
+      width: 94%;
       margin: 0 auto;
       padding: 20px 0;
 
@@ -48,6 +63,15 @@ code {
         }
       }
       nav {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        .sns {
+          display: flex;
+          gap: 10px;
+        }
+
         ul {
           list-style: none;
           display: flex;
@@ -55,15 +79,146 @@ code {
           justify-content: center;
           gap: 20px;
           li {
-            a{
+            a {
               color: #fff;
               text-decoration: none;
               font-weight: bold;
               text-transform: uppercase;
+              font-size: 0.8rem;
             }
           }
         }
       }
+    }
+  }
+
+  .overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.275);
+    z-index: 999;
+    display: none;
+  }
+  &.menu__is__open {
+    .overlay {
+      display: block !important;
+    }
+  }
+
+  .responsive__menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    max-width: 420px;
+    height: 100vh;
+    background-color: #fff;
+    z-index: 9999;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 20px;
+    display: none;
+    flex-direction: column;
+    padding-top: 50px;
+    gap: 2px;
+    .close-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      width: 50px;
+      height: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 1.5rem;
+    }
+
+    .link__container {
+      display: flex;
+      width: 100%;
+      a {
+        width: 100%;
+        padding: 12px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #333;
+        font-weight: 500;
+        text-transform: uppercase;
+        font-size: 0.9rem;
+      }
+    }
+  }
+
+  &.menu__is__open .responsive__menu {
+    display: flex;
+  }
+
+  .responsiveMenuBtn {
+    display: none;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      max-height: 30px;
+      filter: invert(1);
+    }
+  }
+
+  @media screen and (max-width: 980px) {
+    .responsiveMenuBtn {
+      display: flex;
+      cursor: pointer;
+    }
+
+    nav {
+      display: none!important;
+    }
+  }
+
+  .audios__container {
+    width: 94%;
+    max-width: 1200px;
+    margin: 0 auto;
+    list-style: none;
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    .title {
+      margin-bottom: 10px;
+    }
+    audio {
+      width: 100%;
+      border: 3px solid #5f5c5c;
+      border-radius: 40px;
+    }
+  }
+
+  .footer {
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: initial;
+    background-image: url(//arcadepapel.net/keepx/wp-content/uploads/2020/08/Recurso-41.png);
+    background-color: transparent;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    .footer__content {
+      width: 94%;
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      color: #fff;
+      gap: 20px;
+    }
+    img {
+      max-height: 120px;
     }
   }
 }

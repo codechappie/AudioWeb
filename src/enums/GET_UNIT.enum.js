@@ -13,3 +13,35 @@ export const GET_UNIT = {
     "u12": "UNIT 12",
     "u13": "UNIT 13",
 }
+
+export const GET_UNIT_LINK = {
+    "UNIT 1": "u1",
+    "UNIT 2": "u2",
+    "UNIT 3": "u3",
+    "UNIT 4": "u4",
+    "UNIT 5": "u5",
+    "UNIT 6": "u6",
+    "UNIT 7": "u7",
+    "UNIT 8": "u8",
+    "UNIT 9": "u9",
+    "UNIT 10": "u10",
+    "UNIT 11": "u11",
+    "UNIT 12": "u12",
+    "UNIT 13": "u13",
+}
+
+export const GET_UNIT_NAME = {
+    "UNIT 1": "Unidad 1",
+    "UNIT 2": "Unidad 2",
+    "UNIT 3": "Unidad 3",
+    "UNIT 4": "Unidad 4",
+    "UNIT 5": "Unidad 5",
+    "UNIT 6": "Unidad 6",
+    "UNIT 7": "Unidad 7",
+    "UNIT 8": "Unidad 8",
+    "UNIT 9": "Unidad 9",
+    "UNIT 10": "Unidad 10",
+    "UNIT 11": "Unidad 11",
+    "UNIT 12": "Unidad 12",
+    "UNIT 13": "Unidad 13",
+}
