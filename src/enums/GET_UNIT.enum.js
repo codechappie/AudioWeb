@@ -1,0 +1,15 @@
+export const GET_UNIT = {
+    "u1": "UNIT 1",
+    "u2": "UNIT 2",
+    "u3": "UNIT 3",
+    "u4": "UNIT 4",
+    "u5": "UNIT 5",
+    "u6": "UNIT 6",
+    "u7": "UNIT 7",
+    "u8": "UNIT 8",
+    "u9": "UNIT 9",
+    "u10": "UNIT 10",
+    "u11": "UNIT 11",
+    "u12": "UNIT 12",
+    "u13": "UNIT 13",
+}

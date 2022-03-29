@@ -1,0 +1,599 @@
+[
+    {
+        "_id": "ingles-1-secundaria",
+        "audios": [
+            {
+                "name": "TRACK 00 - 1RO SEC AUDIO BIENVENIDA",
+                "audio": "TRACK 00 - 1RO SEC AUDIO BIENVENIDA.mp3"
+            },
+            {
+                "name": "TRACK 00 - 1RO SEC AUDIO BIENVENIDA.wav",
+                "audio": "TRACK 00 - 1RO SEC AUDIO BIENVENIDA.wav"
+            },
+            {
+                "name": "TRACK 01 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 6 -ACT 1",
+                "audio": "TRACK 01 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 6 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 01 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 6 -ACT 1.wav",
+                "audio": "TRACK 01 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 6 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 02 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 7 -ACT 5",
+                "audio": "TRACK 02 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 7 -ACT 5.mp3"
+            },
+            {
+                "name": "TRACK 02 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 7 -ACT 5.wav",
+                "audio": "TRACK 02 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 7 -ACT 5.wav"
+            },
+            {
+                "name": "TRACK 03 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 7 -ACT 7",
+                "audio": "TRACK 03 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 7 -ACT 7.mp3"
+            },
+            {
+                "name": "TRACK 03 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 7 -ACT 7.wav",
+                "audio": "TRACK 03 - 1RO GRADO SEC - UNIT 1 - LESSON 1 - PAG 7 -ACT 7.wav"
+            },
+            {
+                "name": "TRACK 04 - 1RO GRADO SEC - UNIT 1 - LESSON 2 - PAG 8 -ACT 1",
+                "audio": "TRACK 04 - 1RO GRADO SEC - UNIT 1 - LESSON 2 - PAG 8 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 04 - 1RO GRADO SEC - UNIT 1 - LESSON 2 - PAG 8 -ACT 1.wav",
+                "audio": "TRACK 04 - 1RO GRADO SEC - UNIT 1 - LESSON 2 - PAG 8 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 05 - 1RO GRADO SEC - UNIT 1 - LESSON 2 - PAG 8 -ACT 2",
+                "audio": "TRACK 05 - 1RO GRADO SEC - UNIT 1 - LESSON 2 - PAG 8 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 05 - 1RO GRADO SEC - UNIT 1 - LESSON 2 - PAG 8 -ACT 2.wav",
+                "audio": "TRACK 05 - 1RO GRADO SEC - UNIT 1 - LESSON 2 - PAG 8 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 06 - 1RO GRADO SEC - UNIT 1 - LESSON 3 - PAG 10 -ACT 1",
+                "audio": "TRACK 06 - 1RO GRADO SEC - UNIT 1 - LESSON 3 - PAG 10 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 06 - 1RO GRADO SEC - UNIT 1 - LESSON 3 - PAG 10 -ACT 1.wav",
+                "audio": "TRACK 06 - 1RO GRADO SEC - UNIT 1 - LESSON 3 - PAG 10 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 07 - 1RO GRADO SEC - UNIT 1 - LESSON 3 - PAG 11 -ACT 5",
+                "audio": "TRACK 07 - 1RO GRADO SEC - UNIT 1 - LESSON 3 - PAG 11 -ACT 5.mp3"
+            },
+            {
+                "name": "TRACK 07 - 1RO GRADO SEC - UNIT 1 - LESSON 3 - PAG 11 -ACT 5.wav",
+                "audio": "TRACK 07 - 1RO GRADO SEC - UNIT 1 - LESSON 3 - PAG 11 -ACT 5.wav"
+            },
+            {
+                "name": "TRACK 08 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 12 -ACT 1",
+                "audio": "TRACK 08 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 12 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 08 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 12 -ACT 1.wav",
+                "audio": "TRACK 08 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 12 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 09 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 13 -ACT 6",
+                "audio": "TRACK 09 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 13 -ACT 6.mp3"
+            },
+            {
+                "name": "TRACK 09 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 13 -ACT 6.wav",
+                "audio": "TRACK 09 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 13 -ACT 6.wav"
+            },
+            {
+                "name": "TRACK 10 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 15 -ACT PHONICS",
+                "audio": "TRACK 10 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 15 -ACT PHONICS.mp3"
+            },
+            {
+                "name": "TRACK 10 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 15 -ACT PHONICS.wav",
+                "audio": "TRACK 10 - 1RO GRADO SEC - UNIT 1 - LESSON 4 - PAG 15 -ACT PHONICS.wav"
+            },
+            {
+                "name": "TRACK 11 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 1",
+                "audio": "TRACK 11 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 11 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 1.wav",
+                "audio": "TRACK 11 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 12 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 3",
+                "audio": "TRACK 12 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 12 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 3.wav",
+                "audio": "TRACK 12 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 13 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 4",
+                "audio": "TRACK 13 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 4.mp3"
+            },
+            {
+                "name": "TRACK 13 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 4.wav",
+                "audio": "TRACK 13 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 18 -ACT 4.wav"
+            },
+            {
+                "name": "TRACK 14 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 19 -ACT 8",
+                "audio": "TRACK 14 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 19 -ACT 8.mp3"
+            },
+            {
+                "name": "TRACK 14 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 19 -ACT 8.wav",
+                "audio": "TRACK 14 - 1RO GRADO SEC - UNIT 2 - LESSON 1 - PAG 19 -ACT 8.wav"
+            },
+            {
+                "name": "TRACK 15 - 1RO GRADO SEC - UNIT 2 - LESSON 2 - PAG 20 -ACT 1",
+                "audio": "TRACK 15 - 1RO GRADO SEC - UNIT 2 - LESSON 2 - PAG 20 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 15 - 1RO GRADO SEC - UNIT 2 - LESSON 2 - PAG 20 -ACT 1.wav",
+                "audio": "TRACK 15 - 1RO GRADO SEC - UNIT 2 - LESSON 2 - PAG 20 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 16 - 1RO GRADO SEC - UNIT 2 - LESSON 2 - PAG 20 -ACT 2",
+                "audio": "TRACK 16 - 1RO GRADO SEC - UNIT 2 - LESSON 2 - PAG 20 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 16 - 1RO GRADO SEC - UNIT 2 - LESSON 2 - PAG 20 -ACT 2.wav",
+                "audio": "TRACK 16 - 1RO GRADO SEC - UNIT 2 - LESSON 2 - PAG 20 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 17 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 22 -ACT 2",
+                "audio": "TRACK 17 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 22 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 17 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 22 -ACT 2.wav",
+                "audio": "TRACK 17 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 22 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 18 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 23 -ACT 4",
+                "audio": "TRACK 18 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 23 -ACT 4.mp3"
+            },
+            {
+                "name": "TRACK 18 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 23 -ACT 4.wav",
+                "audio": "TRACK 18 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 23 -ACT 4.wav"
+            },
+            {
+                "name": "TRACK 19 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 23 -ACT 6",
+                "audio": "TRACK 19 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 23 -ACT 6.mp3"
+            },
+            {
+                "name": "TRACK 19 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 23 -ACT 6.wav",
+                "audio": "TRACK 19 - 1RO GRADO SEC - UNIT 2 - LESSON 3 - PAG 23 -ACT 6.wav"
+            },
+            {
+                "name": "TRACK 20 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 24 -ACT 1",
+                "audio": "TRACK 20 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 24 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 20 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 24 -ACT 1.wav",
+                "audio": "TRACK 20 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 24 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 21 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 24 -ACT 4",
+                "audio": "TRACK 21 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 24 -ACT 4.mp3"
+            },
+            {
+                "name": "TRACK 21 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 24 -ACT 4.wav",
+                "audio": "TRACK 21 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 24 -ACT 4.wav"
+            },
+            {
+                "name": "TRACK 22 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 25 -ACT 6",
+                "audio": "TRACK 22 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 25 -ACT 6.mp3"
+            },
+            {
+                "name": "TRACK 22 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 25 -ACT 6.wav",
+                "audio": "TRACK 22 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 25 -ACT 6.wav"
+            },
+            {
+                "name": "TRACK 23 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 27 -ACT PHONICS",
+                "audio": "TRACK 23 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 27 -ACT PHONICS.mp3"
+            },
+            {
+                "name": "TRACK 23 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 27 -ACT PHONICS.wav",
+                "audio": "TRACK 23 - 1RO GRADO SEC - UNIT 2 - LESSON 4 - PAG 27 -ACT PHONICS.wav"
+            },
+            {
+                "name": "TRACK 24 - 1RO GRADO SEC - UNIT 3 - LESSON 1 - PAG 30 -ACT 1",
+                "audio": "TRACK 24 - 1RO GRADO SEC - UNIT 3 - LESSON 1 - PAG 30 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 24 - 1RO GRADO SEC - UNIT 3 - LESSON 1 - PAG 30 -ACT 1.wav",
+                "audio": "TRACK 24 - 1RO GRADO SEC - UNIT 3 - LESSON 1 - PAG 30 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 25 - 1RO GRADO SEC - UNIT 3 - LESSON 1 - PAG 30 -ACT 2",
+                "audio": "TRACK 25 - 1RO GRADO SEC - UNIT 3 - LESSON 1 - PAG 30 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 25 - 1RO GRADO SEC - UNIT 3 - LESSON 1 - PAG 30 -ACT 2.wav",
+                "audio": "TRACK 25 - 1RO GRADO SEC - UNIT 3 - LESSON 1 - PAG 30 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 26 - 1RO GRADO SEC - UNIT 3 - LESSON 2 - PAG 33 -ACT 2",
+                "audio": "TRACK 26 - 1RO GRADO SEC - UNIT 3 - LESSON 2 - PAG 33 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 26 - 1RO GRADO SEC - UNIT 3 - LESSON 2 - PAG 33 -ACT 2.wav",
+                "audio": "TRACK 26 - 1RO GRADO SEC - UNIT 3 - LESSON 2 - PAG 33 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 27 - 1RO GRADO SEC - UNIT 3 - LESSON 2 - PAG 33 -ACT 3",
+                "audio": "TRACK 27 - 1RO GRADO SEC - UNIT 3 - LESSON 2 - PAG 33 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 27 - 1RO GRADO SEC - UNIT 3 - LESSON 2 - PAG 33 -ACT 3.wav",
+                "audio": "TRACK 27 - 1RO GRADO SEC - UNIT 3 - LESSON 2 - PAG 33 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 28 - 1RO GRADO SEC - UNIT 3 - LESSON 3 - PAG 34 -ACT 1",
+                "audio": "TRACK 28 - 1RO GRADO SEC - UNIT 3 - LESSON 3 - PAG 34 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 28 - 1RO GRADO SEC - UNIT 3 - LESSON 3 - PAG 34 -ACT 1.wav",
+                "audio": "TRACK 28 - 1RO GRADO SEC - UNIT 3 - LESSON 3 - PAG 34 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 29 - 1RO GRADO SEC - UNIT 3 - LESSON 3 - PAG 35 -ACT 4",
+                "audio": "TRACK 29 - 1RO GRADO SEC - UNIT 3 - LESSON 3 - PAG 35 -ACT 4.mp3"
+            },
+            {
+                "name": "TRACK 29 - 1RO GRADO SEC - UNIT 3 - LESSON 3 - PAG 35 -ACT 4.wav",
+                "audio": "TRACK 29 - 1RO GRADO SEC - UNIT 3 - LESSON 3 - PAG 35 -ACT 4.wav"
+            },
+            {
+                "name": "TRACK 30 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 36 -ACT 1",
+                "audio": "TRACK 30 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 36 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 30 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 36 -ACT 1.wav",
+                "audio": "TRACK 30 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 36 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 31 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 37 -ACT 2",
+                "audio": "TRACK 31 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 37 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 31 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 37 -ACT 2.wav",
+                "audio": "TRACK 31 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 37 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 32 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 39 -ACT PHONICS",
+                "audio": "TRACK 32 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 39 -ACT PHONICS.mp3"
+            },
+            {
+                "name": "TRACK 32 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 39 -ACT PHONICS.wav",
+                "audio": "TRACK 32 - 1RO GRADO SEC - UNIT 3 - LESSON 4 - PAG 39 -ACT PHONICS.wav"
+            },
+            {
+                "name": "TRACK 33 - 1RO GRADO SEC - UNIT 4 - LESSON 1 - PAG 42 -ACT 2",
+                "audio": "TRACK 33 - 1RO GRADO SEC - UNIT 4 - LESSON 1 - PAG 42 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 33 - 1RO GRADO SEC - UNIT 4 - LESSON 1 - PAG 42 -ACT 2.wav",
+                "audio": "TRACK 33 - 1RO GRADO SEC - UNIT 4 - LESSON 1 - PAG 42 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 34 - 1RO GRADO SEC - UNIT 4 - LESSON 1 - PAG 43 -ACT 4",
+                "audio": "TRACK 34 - 1RO GRADO SEC - UNIT 4 - LESSON 1 - PAG 43 -ACT 4.mp3"
+            },
+            {
+                "name": "TRACK 34 - 1RO GRADO SEC - UNIT 4 - LESSON 1 - PAG 43 -ACT 4.wav",
+                "audio": "TRACK 34 - 1RO GRADO SEC - UNIT 4 - LESSON 1 - PAG 43 -ACT 4.wav"
+            },
+            {
+                "name": "TRACK 35 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 44 -ACT 1",
+                "audio": "TRACK 35 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 44 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 35 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 44 -ACT 1.wav",
+                "audio": "TRACK 35 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 44 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 36 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 44 -ACT 2",
+                "audio": "TRACK 36 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 44 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 36 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 44 -ACT 2.wav",
+                "audio": "TRACK 36 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 44 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 37 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 45 -ACT 3",
+                "audio": "TRACK 37 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 45 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 37 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 45 -ACT 3.wav",
+                "audio": "TRACK 37 - 1RO GRADO SEC - UNIT 4 - LESSON 2 - PAG 45 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 38 - 1RO GRADO SEC - UNIT 4 - LESSON 3 - PAG 46 -ACT 1",
+                "audio": "TRACK 38 - 1RO GRADO SEC - UNIT 4 - LESSON 3 - PAG 46 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 38 - 1RO GRADO SEC - UNIT 4 - LESSON 3 - PAG 46 -ACT 1.wav",
+                "audio": "TRACK 38 - 1RO GRADO SEC - UNIT 4 - LESSON 3 - PAG 46 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 39 - 1RO GRADO SEC - UNIT 4 - LESSON 3 - PAG 47 -ACT 4",
+                "audio": "TRACK 39 - 1RO GRADO SEC - UNIT 4 - LESSON 3 - PAG 47 -ACT 4.mp3"
+            },
+            {
+                "name": "TRACK 39 - 1RO GRADO SEC - UNIT 4 - LESSON 3 - PAG 47 -ACT 4.wav",
+                "audio": "TRACK 39 - 1RO GRADO SEC - UNIT 4 - LESSON 3 - PAG 47 -ACT 4.wav"
+            },
+            {
+                "name": "TRACK 40 - 1RO GRADO SEC - UNIT 4 - LESSON 4 - PAG 51 -ACT PHONICS",
+                "audio": "TRACK 40 - 1RO GRADO SEC - UNIT 4 - LESSON 4 - PAG 51 -ACT PHONICS.mp3"
+            },
+            {
+                "name": "TRACK 40 - 1RO GRADO SEC - UNIT 4 - LESSON 4 - PAG 51 -ACT PHONICS.wav",
+                "audio": "TRACK 40 - 1RO GRADO SEC - UNIT 4 - LESSON 4 - PAG 51 -ACT PHONICS.wav"
+            },
+            {
+                "name": "TRACK 41 - 1RO GRADO SEC - UNIT 5 - LESSON 1 - PAG 54 -ACT 1",
+                "audio": "TRACK 41 - 1RO GRADO SEC - UNIT 5 - LESSON 1 - PAG 54 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 41 - 1RO GRADO SEC - UNIT 5 - LESSON 1 - PAG 54 -ACT 1.wav",
+                "audio": "TRACK 41 - 1RO GRADO SEC - UNIT 5 - LESSON 1 - PAG 54 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 42 - 1RO GRADO SEC - UNIT 5 - LESSON 1 - PAG 55 -ACT 3",
+                "audio": "TRACK 42 - 1RO GRADO SEC - UNIT 5 - LESSON 1 - PAG 55 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 42 - 1RO GRADO SEC - UNIT 5 - LESSON 1 - PAG 55 -ACT 3.wav",
+                "audio": "TRACK 42 - 1RO GRADO SEC - UNIT 5 - LESSON 1 - PAG 55 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 43 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 56 -ACT 1",
+                "audio": "TRACK 43 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 56 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 43 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 56 -ACT 1.wav",
+                "audio": "TRACK 43 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 56 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 44 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 57 -ACT 2",
+                "audio": "TRACK 44 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 57 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 44 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 57 -ACT 2.wav",
+                "audio": "TRACK 44 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 57 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 45 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 57 -ACT 6",
+                "audio": "TRACK 45 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 57 -ACT 6.mp3"
+            },
+            {
+                "name": "TRACK 45 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 57 -ACT 6.wav",
+                "audio": "TRACK 45 - 1RO GRADO SEC - UNIT 5 - LESSON 2 - PAG 57 -ACT 6.wav"
+            },
+            {
+                "name": "TRACK 46 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 58 -ACT 1",
+                "audio": "TRACK 46 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 58 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 46 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 58 -ACT 1.wav",
+                "audio": "TRACK 46 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 58 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 47 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 59 -ACT 3",
+                "audio": "TRACK 47 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 59 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 47 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 59 -ACT 3.wav",
+                "audio": "TRACK 47 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 59 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 48 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 59 -ACT 4",
+                "audio": "TRACK 48 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 59 -ACT 4.mp3"
+            },
+            {
+                "name": "TRACK 48 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 59 -ACT 4.wav",
+                "audio": "TRACK 48 - 1RO GRADO SEC - UNIT 5 - LESSON 3 - PAG 59 -ACT 4.wav"
+            },
+            {
+                "name": "TRACK 49 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 60 -ACT 1",
+                "audio": "TRACK 49 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 60 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 49 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 60 -ACT 1.wav",
+                "audio": "TRACK 49 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 60 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 50 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 61 -ACT 9",
+                "audio": "TRACK 50 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 61 -ACT 9.mp3"
+            },
+            {
+                "name": "TRACK 50 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 61 -ACT 9.wav",
+                "audio": "TRACK 50 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 61 -ACT 9.wav"
+            },
+            {
+                "name": "TRACK 51 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 63 -ACT PHONICS",
+                "audio": "TRACK 51 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 63 -ACT PHONICS.mp3"
+            },
+            {
+                "name": "TRACK 51 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 63 -ACT PHONICS.wav",
+                "audio": "TRACK 51 - 1RO GRADO SEC - UNIT 5 - LESSON 4 - PAG 63 -ACT PHONICS.wav"
+            },
+            {
+                "name": "TRACK 52 - 1RO GRADO SEC - UNIT 6 - LESSON 1 - PAG 66 -ACT 1",
+                "audio": "TRACK 52 - 1RO GRADO SEC - UNIT 6 - LESSON 1 - PAG 66 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 52 - 1RO GRADO SEC - UNIT 6 - LESSON 1 - PAG 66 -ACT 1.wav",
+                "audio": "TRACK 52 - 1RO GRADO SEC - UNIT 6 - LESSON 1 - PAG 66 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 53 - 1RO GRADO SEC - UNIT 6 - LESSON 1 - PAG 67 -ACT 3",
+                "audio": "TRACK 53 - 1RO GRADO SEC - UNIT 6 - LESSON 1 - PAG 67 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 53 - 1RO GRADO SEC - UNIT 6 - LESSON 1 - PAG 67 -ACT 3.wav",
+                "audio": "TRACK 53 - 1RO GRADO SEC - UNIT 6 - LESSON 1 - PAG 67 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 54 - 1RO GRADO SEC - UNIT 6 - LESSON 3 - PAG 70 -ACT 1",
+                "audio": "TRACK 54 - 1RO GRADO SEC - UNIT 6 - LESSON 3 - PAG 70 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 54 - 1RO GRADO SEC - UNIT 6 - LESSON 3 - PAG 70 -ACT 1.wav",
+                "audio": "TRACK 54 - 1RO GRADO SEC - UNIT 6 - LESSON 3 - PAG 70 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 55 - 1RO GRADO SEC - UNIT 6 - LESSON 3 - PAG 70 -ACT 3",
+                "audio": "TRACK 55 - 1RO GRADO SEC - UNIT 6 - LESSON 3 - PAG 70 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 55 - 1RO GRADO SEC - UNIT 6 - LESSON 3 - PAG 70 -ACT 3.wav",
+                "audio": "TRACK 55 - 1RO GRADO SEC - UNIT 6 - LESSON 3 - PAG 70 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 56 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 72 -ACT 1",
+                "audio": "TRACK 56 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 72 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 56 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 72 -ACT 1.wav",
+                "audio": "TRACK 56 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 72 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 57 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 72 -ACT 2",
+                "audio": "TRACK 57 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 72 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 57 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 72 -ACT 2.wav",
+                "audio": "TRACK 57 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 72 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 58 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 73 -ACT 5",
+                "audio": "TRACK 58 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 73 -ACT 5.mp3"
+            },
+            {
+                "name": "TRACK 58 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 73 -ACT 5.wav",
+                "audio": "TRACK 58 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 73 -ACT 5.wav"
+            },
+            {
+                "name": "TRACK 59 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 75 -ACT PHONICS",
+                "audio": "TRACK 59 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 75 -ACT PHONICS.mp3"
+            },
+            {
+                "name": "TRACK 59 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 75 -ACT PHONICS.wav",
+                "audio": "TRACK 59 - 1RO GRADO SEC - UNIT 6 - LESSON 4 - PAG 75 -ACT PHONICS.wav"
+            },
+            {
+                "name": "TRACK 60 - 1RO GRADO SEC - UNIT 7 - LESSON 1 - PAG 78 -ACT 1",
+                "audio": "TRACK 60 - 1RO GRADO SEC - UNIT 7 - LESSON 1 - PAG 78 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 60 - 1RO GRADO SEC - UNIT 7 - LESSON 1 - PAG 78 -ACT 1.wav",
+                "audio": "TRACK 60 - 1RO GRADO SEC - UNIT 7 - LESSON 1 - PAG 78 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 61 - 1RO GRADO SEC - UNIT 7 - LESSON 2 - PAG 80 -ACT 1",
+                "audio": "TRACK 61 - 1RO GRADO SEC - UNIT 7 - LESSON 2 - PAG 80 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 61 - 1RO GRADO SEC - UNIT 7 - LESSON 2 - PAG 80 -ACT 1.wav",
+                "audio": "TRACK 61 - 1RO GRADO SEC - UNIT 7 - LESSON 2 - PAG 80 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 62 - 1RO GRADO SEC - UNIT 7 - LESSON 2 - PAG 81 -ACT 3",
+                "audio": "TRACK 62 - 1RO GRADO SEC - UNIT 7 - LESSON 2 - PAG 81 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 62 - 1RO GRADO SEC - UNIT 7 - LESSON 2 - PAG 81 -ACT 3.wav",
+                "audio": "TRACK 62 - 1RO GRADO SEC - UNIT 7 - LESSON 2 - PAG 81 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 63 - 1RO GRADO SEC - UNIT 7 - LESSON 3 - PAG 83 -ACT 3",
+                "audio": "TRACK 63 - 1RO GRADO SEC - UNIT 7 - LESSON 3 - PAG 83 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 63 - 1RO GRADO SEC - UNIT 7 - LESSON 3 - PAG 83 -ACT 3.wav",
+                "audio": "TRACK 63 - 1RO GRADO SEC - UNIT 7 - LESSON 3 - PAG 83 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 64 - 1RO GRADO SEC - UNIT 7 - LESSON 4 - PAG 84 -ACT 1",
+                "audio": "TRACK 64 - 1RO GRADO SEC - UNIT 7 - LESSON 4 - PAG 84 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 64 - 1RO GRADO SEC - UNIT 7 - LESSON 4 - PAG 84 -ACT 1.wav",
+                "audio": "TRACK 64 - 1RO GRADO SEC - UNIT 7 - LESSON 4 - PAG 84 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 65 - 1RO GRADO SEC - UNIT 7 - LESSON 4 - PAG 87 -ACT PHONICS",
+                "audio": "TRACK 65 - 1RO GRADO SEC - UNIT 7 - LESSON 4 - PAG 87 -ACT PHONICS.mp3"
+            },
+            {
+                "name": "TRACK 65 - 1RO GRADO SEC - UNIT 7 - LESSON 4 - PAG 87 -ACT PHONICS.wav",
+                "audio": "TRACK 65 - 1RO GRADO SEC - UNIT 7 - LESSON 4 - PAG 87 -ACT PHONICS.wav"
+            },
+            {
+                "name": "TRACK 66 - 1RO GRADO SEC - UNIT 8 - LESSON 1 - PAG 91 -ACT 5",
+                "audio": "TRACK 66 - 1RO GRADO SEC - UNIT 8 - LESSON 1 - PAG 91 -ACT 5.mp3"
+            },
+            {
+                "name": "TRACK 66 - 1RO GRADO SEC - UNIT 8 - LESSON 1 - PAG 91 -ACT 5.wav",
+                "audio": "TRACK 66 - 1RO GRADO SEC - UNIT 8 - LESSON 1 - PAG 91 -ACT 5.wav"
+            },
+            {
+                "name": "TRACK 67 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 92 -ACT 1",
+                "audio": "TRACK 67 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 92 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 67 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 92 -ACT 1.wav",
+                "audio": "TRACK 67 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 92 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 68 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 93 -ACT 3",
+                "audio": "TRACK 68 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 93 -ACT 3.mp3"
+            },
+            {
+                "name": "TRACK 68 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 93 -ACT 3.wav",
+                "audio": "TRACK 68 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 93 -ACT 3.wav"
+            },
+            {
+                "name": "TRACK 69 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 93 -ACT 4",
+                "audio": "TRACK 69 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 93 -ACT 4.mp3"
+            },
+            {
+                "name": "TRACK 69 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 93 -ACT 4.wav",
+                "audio": "TRACK 69 - 1RO GRADO SEC - UNIT 8 - LESSON 2 - PAG 93 -ACT 4.wav"
+            },
+            {
+                "name": "TRACK 70 - 1RO GRADO SEC - UNIT 8 - LESSON 3 - PAG 94 -ACT 2",
+                "audio": "TRACK 70 - 1RO GRADO SEC - UNIT 8 - LESSON 3 - PAG 94 -ACT 2.mp3"
+            },
+            {
+                "name": "TRACK 70 - 1RO GRADO SEC - UNIT 8 - LESSON 3 - PAG 94 -ACT 2.wav",
+                "audio": "TRACK 70 - 1RO GRADO SEC - UNIT 8 - LESSON 3 - PAG 94 -ACT 2.wav"
+            },
+            {
+                "name": "TRACK 71 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 96 -ACT 1",
+                "audio": "TRACK 71 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 96 -ACT 1.mp3"
+            },
+            {
+                "name": "TRACK 71 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 96 -ACT 1.wav",
+                "audio": "TRACK 71 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 96 -ACT 1.wav"
+            },
+            {
+                "name": "TRACK 72 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 97 -ACT 4",
+                "audio": "TRACK 72 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 97 -ACT 4.mp3"
+            },
+            {
+                "name": "TRACK 72 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 97 -ACT 4.wav",
+                "audio": "TRACK 72 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 97 -ACT 4.wav"
+            },
+            {
+                "name": "TRACK 73 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 99 -ACT PHONICS",
+                "audio": "TRACK 73 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 99 -ACT PHONICS.mp3"
+            },
+            {
+                "name": "TRACK 73 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 99 -ACT PHONICS.wav",
+                "audio": "TRACK 73 - 1RO GRADO SEC - UNIT 8 - LESSON 4 - PAG 99 -ACT PHONICS.wav"
+            }
+        ]
+    }
+]
